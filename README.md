@@ -102,7 +102,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [link-packagist]: https://packagist.org/packages/tzsk/push
 [link-travis]: https://travis-ci.org/tzsk/push
-[link-scrutinizer]: https://scrutinizer-ci.com/g/tzsk/push/code-structure/master
+[link-scrutinizer]: https://scrutinizer-ci.com/g/tzsk/push/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/tzsk/push
 [link-downloads]: https://packagist.org/packages/tzsk/push
 [link-author]: https://github.com/tzsk

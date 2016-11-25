@@ -324,7 +324,7 @@ class Pusher
     /**
      * Send Push to tokens.
      *
-     * @return object
+     * @return \Gomoob\Pushwoosh\Model\Response\CreateMessageResponse
      */
     public function send($message, $callback) {
         $this->body = $message;

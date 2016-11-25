@@ -156,7 +156,7 @@ class Pusher
      * @param mixed $payload
      * @return $this
      */
-    public function setPayload($payload)
+    public function setPayload(array $payload)
     {
         $this->payload = $payload;
 

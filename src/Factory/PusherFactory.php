@@ -54,4 +54,5 @@ class PusherFactory
             ->setApplication($auth['key'])
             ->setAuth($auth['token']);
     }
+
 }

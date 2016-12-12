@@ -7,7 +7,9 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 
 This is a `Laravel 5 Package` for [**Pushwoosh**](https://www.pushwoosh.com) Notification Integration. This package currently supports `IOS & Android` other support is coming soon. 
-This package is built upon [gomoob/php-pushwoosh](https://github.com/gomoob/php-pushwoosh) package. With feew tweeks and Laravel 5 Compatibility.
+This package is built upon [gomoob/php-pushwoosh](https://github.com/gomoob/php-pushwoosh) package. With feew changes and Laravel 5 Compatibility.
+
+This package is compatible with Laravel 5.2 or Higher. Old version support (Laravel 5.1.\*) is coming soon for those who are still using PHP 5.4.\*
 
 ## Install
 

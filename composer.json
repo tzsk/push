@@ -4,7 +4,11 @@
     "description": "Pushwoosh for Laravel",
     "keywords": [
         "tzsk",
-        "push"
+        "push",
+        "pushwoosh",
+        "laravel",
+        "pushwoosh laravel",
+        "pushwoosh package laravel"
     ],
     "homepage": "https://github.com/tzsk/push",
     "license": "MIT",

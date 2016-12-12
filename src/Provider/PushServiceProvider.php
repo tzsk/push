@@ -16,7 +16,7 @@ class PushServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            dirname(__DIR__).'/Config/tzsk-push.php' => config_path('push.php'),
+            dirname(__DIR__) . '/Config/tzsk-push.php' => config_path('push.php'),
         ]);
     }
 
@@ -31,4 +31,5 @@ class PushServiceProvider extends ServiceProvider
             return new Pusher(new PusherFactory());
         });
     }
+
 }

@@ -19,4 +19,5 @@ class Push extends Facade
     {
         return 'tzsk-push';
     }
+
 }
